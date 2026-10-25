@@ -1,8 +1,6 @@
 # Aurora Studio
 
-Editor de vídeo privado de escritorio para Windows y macOS (Electron + React + WebGL2 + FFmpeg).
-Primera app de la suite **Aurora** (futuras: Aurora Photo, Aurora Sound, Aurora Motion).
-Proyectos `.aurora` (abre también `.vela` y `.montaje`).
+Editor de vídeo privado de escritorio para Windows y macOS.
 
 ## Usar en desarrollo
 
