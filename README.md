@@ -31,3 +31,7 @@ npm start                # compila y abre la versión de producción
   (NVENC, Quick Sync, AMF o VideoToolbox) o por CPU. Si hay un FFmpeg más reciente en el sistema, se usa ese.
 - Los datos (autoguardado) están en `%APPDATA%/Montaje Studio` (Windows) o `~/Library/Application Support/Montaje Studio` (macOS).
 - `MONTAJE_PROFILE=<carpeta>` abre la app con un perfil aislado (útil para pruebas).
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Aurora Suite.

@@ -5,7 +5,7 @@
   "description": "Aurora Studio — editor de vídeo de la suite Aurora",
   "main": "electron/main.cjs",
   "author": "Aurora Suite",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "concurrently -k -n vite,app \"vite\" \"wait-on tcp:5173 && cross-env MONTAJE_DEV=1 electron .\"",
